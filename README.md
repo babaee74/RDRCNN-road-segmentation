@@ -25,5 +25,5 @@ To use this implementation, follow these steps:
 
 If you find this dataset useful for your work, we kindly request that you cite it using the following format:
 ```
-[Ehsan Babaei]. "CryptoCurrency 5min Interval Dataset: For Deep Learning Crypto Predictions" [2021]. [https://github.com/babaee74], version [V1.0]. [[https://github.com/babaee74/crypto-dataset/](https://github.com/babaee74/radar-road-segmenation-dataset/)].
+[Ehsan Babaei]. "Road Segmentation Dataset using Radar Imagery" [2021]. [https://github.com/babaee74], version [V1.0]. [[https://github.com/babaee74/crypto-dataset/](https://github.com/babaee74/radar-road-segmenation-dataset/)].
 ```
