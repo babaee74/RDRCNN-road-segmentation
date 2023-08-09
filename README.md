@@ -10,14 +10,14 @@ This repository contains a TensorFlow 2 implementation of the paper titled "A ne
 The [Radar Road Segmentation Dataset](https://github.com/babaee74/radar-road-segmenation-dataset) is an extensive collection of radar images from eight different cities. The dataset has been meticulously prepared for road segmentation tasks using deep learning techniques. It consists of over 900 high-resolution RGB images, each sized at 256x256 pixels, accompanied by meticulously labeled road masks.
 
 ## Implementation
-
+https://github.com/babaee74/RDRCNN-road-segmentation
 Our TensorFlow 2 implementation provides a framework for training and evaluating road segmentation models using the Radar Road Segmentation Dataset. The implementation leverages deep learning techniques and convolutional neural network architectures to accurately segment roads in radar images.
 
 ## Usage
 
 To use this implementation, follow these steps:
 
-1. Clone the repository: `Open the given notebook on Google Colab or Your Local System` [https://github.com/babaee74/radar-road-segmenation-dataset](https://github.com/babaee74/radar-road-segmenation-dataset)
+1. Clone the repository: `Open the given notebook on Google Colab or Your Local System` [https://github.com/babaee74/RDRCNN-road-segmentation](https://github.com/babaee74/RDRCNN-road-segmentation)
 
 ## Citation
 
